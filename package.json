@@ -1,0 +1,35 @@
+{
+  "name": "retalior",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.6.1",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "antd": "^5.5.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "framer-motion": "^10.12.12",
+    "mdb-react-ui-kit": "^6.0.0",
+    "mysql": "^2.18.1",
+    "navigate": "^0.3.6",
+    "next": "13.4.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "18.2.0",
+    "react-google-charts": "^4.0.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.11.2"
+  }
+}
